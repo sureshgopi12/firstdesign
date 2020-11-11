@@ -1,0 +1,66 @@
+.header-top{
+	background-color: #333;
+}
+.header-top .container{
+	padding: 0px;
+}
+.header-top p{
+	color: #fff;
+	font-size: 15px;
+	margin: 7px 0px;
+}
+.header-top p a{
+	font-weight: 700;
+	color: #fe9126;
+	text-decoration: none;
+}
+.header-top ul{
+	list-style-type: none;
+}
+.header-top ul li{
+	float: left;
+	margin: 5px 35px;
+}
+.header-top ul li a{
+	color: white;
+	font-size: 1em;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+.header-top .fa{
+	float: left;
+	color: white;
+	margin: -12px 47px;
+	font-size: 30px;
+}
+.header{
+	margin: 15px 0px;
+}
+.header .left{
+	margin-top: 18px;
+}
+.header .left i{
+	margin-right: 5px;
+}
+.header .title{
+	font-weight: 700;
+	font-size: 40px;
+	color: #fe9126;
+	text-transform: uppercase;
+	letter-spacing: -0.5px;
+}
+.header .search{
+	height: 44px;
+	border: 1.3px solid #999;
+	padding: 0px 15px;
+	width: 76%;
+	margin: 13px 0px;
+}
+.header .search-btn {
+    background-color: #fe9126;
+    border: none;
+    padding: 10px 13px;
+    border-radius: 6px;
+    color: white;
+    font-size: 18px;
+}
